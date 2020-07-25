@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jul 2020 20:56:41 at https://demos.creative-tim.com/material-kit-pro/presentation.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.creative-tim.com/material-kit-pro/presentation.html -O1 "C:\Users\FARHAN SADIQ MAHI\Desktop\WEBS\Wait" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:58:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/material-kit-pro/presentation.html)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/&apos;./assets/img/features-5.jpg&apos; (from https://demos.creative-tim.com/material-kit-pro/presentation.html)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/"./assets/img/test1.jpg" (from https://demos.creative-tim.com/material-kit-pro/presentation.html)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/"./assets/img/test2.jpg" (from https://demos.creative-tim.com/material-kit-pro/presentation.html)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/"./assets/img/test3.jpg" (from https://demos.creative-tim.com/material-kit-pro/presentation.html)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/img/arrow-left.png (from https://demos.creative-tim.com/material-kit-pro/assets/css/material-kit.min.css?v=2.2.0)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/img/arrow-left.cur (from https://demos.creative-tim.com/material-kit-pro/assets/css/material-kit.min.css?v=2.2.0)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/img/arrow-right.png (from https://demos.creative-tim.com/material-kit-pro/assets/css/material-kit.min.css?v=2.2.0)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/img/arrow-right.cur (from https://demos.creative-tim.com/material-kit-pro/assets/css/material-kit.min.css?v=2.2.0)
+21:02:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/assets/img/cd-arrow-bottom.svg (from https://demos.creative-tim.com/material-kit-pro/assets/demo/vertical-nav.css)
+21:03:04	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-kit-pro/examples/&apos;../assets/img/examples/ecommerce-header.jpg&apos; (from https://demos.creative-tim.com/material-kit-pro/examples/ecommerce.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 5 seconds : 251 links scanned, 239 files written (40133369 bytes overall) [37612609 bytes received at 88500 bytes/sec], 3539899 bytes transferred using HTTP compression in 87 files, ratio 20%, 6.3 requests per connection
+(11 errors, 0 warnings, 0 messages)
